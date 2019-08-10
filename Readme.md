@@ -15,9 +15,9 @@ Selenium2library for UI automation
 ExtendedRequestLibrary for API automation
 FakerLibrary for generate random data
     
-    ``pip install robotframework-selenium2library``
-    ``pip install robotframework-ExtendedRequestsLibrary``
-    ``pip install robotframework-FakerLibrary``
+    pip install robotframework-selenium2library
+    pip install robotframework-ExtendedRequestsLibrary
+    pip install robotframework-FakerLibrary
 
 Install Firefox
 
@@ -26,9 +26,9 @@ Install Firefox
 You are ready to run your Test case
  For UI Tests
  
-    ``cd  ${YOUR_PATH}``
-    ``robot -d results tests/project.robot``
+    cd  ${YOUR_PATH}
+    robot -d results tests/project.robot
 For API Tests
  
-    ``cd  ${YOUR_PATH}``
-    ``robot -d results tests/apiProject.robot``
+    cd  ${YOUR_PATH}
+    robot -d results tests/apiProject.robot
