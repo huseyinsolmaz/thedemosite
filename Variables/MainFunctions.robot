@@ -5,8 +5,6 @@ Library           Selenium2Library
 Resource          ../Variables/Variables.robot
 Library           FakerLibrary  locale=en_us
 Library           DateTime
-Library           PostgreSQLDB
-Library           OperatingSystem
 
 *** Keywords ***
 Launch Browser
